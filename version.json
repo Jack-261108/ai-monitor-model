@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "model_name": "YOLOv8n-v1.0-Initial",
+  "classes": [
+    "person",
+    "cat",
+    "dog",
+    "fire"
+  ],
+  "description": "初始测试版本模型：支持人、猫、狗检测，具备火灾报警通道联动能力",
+  "model_url": "https://github.com/Jack-261108/ai-monitor-model/releases/download/v1.0/yolov8_model.bin",
+  "bin_url": "https://github.com/Jack-261108/ai-monitor-model/releases/download/v1.0/yolov8_model.bin",
+  "mirror_model_url": "https://ghfast.top/https://github.com/Jack-261108/ai-monitor-model/releases/download/v1.0/yolov8_model.bin",
+  "size_bytes": 6534387
+}
